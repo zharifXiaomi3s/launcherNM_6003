@@ -4,6 +4,7 @@
       {
         "title":"BANNER",
         "apiType": "hw",
+        "colCell": "bannercolcell",
         "showMore":"0",
         "type":"3",
         "count":"10",
@@ -17,12 +18,15 @@
       {
         "title":"CONTINUE WATCHING",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
+        "showMore": "0",
         "type":"11",
         "count":"20"
       },
       {
         "title":"SNEK",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"1",
         "count":"5",
@@ -36,6 +40,7 @@
       {
         "title":"UNIFI TV ORIGINALS",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -49,6 +54,7 @@
       {
         "title":"HIGHLIGHTS",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -62,6 +68,7 @@
       {
         "title":"RECOMMENDED MOVIES",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -75,6 +82,7 @@
       {
         "title":"RECOMMENDED SERIES",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -88,6 +96,7 @@
       {
         "title":"KIDS",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -101,6 +110,7 @@
       {
         "title":"BBC FIRST HD",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -114,6 +124,7 @@
       {
         "title":"AL HIJRAH ON DEMAND",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -127,6 +138,7 @@
       {
         "title":"NOW BAOGU MOVIES",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -140,6 +152,7 @@
       {
         "title":"LIVE TV",
         "apiType": "hw",
+        "colCell": "homechannelcolcell",
         "showMore":"1",
         "type":"9",
         "count":"50"
@@ -151,6 +164,7 @@
       {
         "title":"BANNER",
         "apiType": "hw",
+        "colCell": "bannercolcell",
         "showMore":"0",
         "type":"3",
         "count":"10",
@@ -164,6 +178,7 @@
       {
         "title":"OLYMPICS 1",
         "apiType": "nm",
+        "colCell": "homevodcolcell",
         "showMore":"0",
         "type":"4",
         "count":"0"
@@ -171,6 +186,7 @@
       {
         "title":"LIGA MALAYSIA",
         "apiType": "nm",
+        "colCell": "homevodcolcell",
         "showMore":"0",
         "type":"4",
         "count":"0"
@@ -178,12 +194,15 @@
       {
         "title":"CONTINUE WATCHING",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
+        "showMore": "0",
         "type":"11",
         "count":"20"
       },
       {
         "title":"SNEK",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"1",
         "count":"5",
@@ -197,6 +216,7 @@
       {
         "title":"UNIFI TV ORIGINALS",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -210,6 +230,7 @@
       {
         "title":"HIGHLIGHTS",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -223,6 +244,7 @@
       {
         "title":"RECOMMENDED MOVIES",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -236,6 +258,7 @@
       {
         "title":"RECOMMENDED SERIES",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -249,6 +272,7 @@
       {
         "title":"KIDS",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -262,6 +286,7 @@
       {
         "title":"BBC FIRST HD",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -275,6 +300,7 @@
       {
         "title":"AL HIJRAH ON DEMAND",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -288,6 +314,7 @@
       {
         "title":"NOW BAOGU MOVIES",
         "apiType": "hw",
+        "colCell": "homevodcolcell",
         "showMore":"1",
         "type":"3",
         "count":"10",
@@ -301,6 +328,7 @@
       {
         "title":"LIVE TV",
         "apiType": "hw",
+        "colCell": "homechannelcolcell",
         "showMore":"1",
         "type":"9",
         "count":"50"
