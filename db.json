@@ -1,7 +1,149 @@
 {
-  "powerRangers": [{
-    "name": "zharif anuar",
-    "age": "34",
-    "job": "iOS developer"
-  }]
+  "normal": {
+    "request":[
+      {
+        "title":"BANNER",
+        "apiType": "hw",
+        "showMore":"0",
+        "type":"3",
+        "count":"10",
+        "extensionFields":[
+          {
+            "key":"subjectID",
+            "values":["H1001"]
+          }
+        ]
+      },
+      {
+        "title":"CONTINUE WATCHING",
+        "apiType": "hw",
+        "type":"11",
+        "count":"20"
+      },
+      {
+        "title":"SNEK",
+        "apiType": "hw",
+        "showMore":"1",
+        "type":"1",
+        "count":"5",
+        "extensionFields":[
+          {
+            "key":"subjectID",
+            "values":["H4000"]
+          }
+        ]
+      },
+      {
+        "title":"UNIFI TV ORIGINALS",
+        "apiType": "hw",
+        "showMore":"1",
+        "type":"3",
+        "count":"10",
+        "extensionFields":[
+          {
+            "key":"subjectID",
+            "values":["H5001"]
+          }
+        ]
+      },
+      {
+        "title":"HIGHLIGHTS",
+        "apiType": "hw",
+        "showMore":"1",
+        "type":"3",
+        "count":"10",
+        "extensionFields":[
+          {
+            "key":"subjectID",
+            "values":["H1001"]
+          }
+        ]
+      },
+      {
+        "title":"RECOMMENDED MOVIES",
+        "apiType": "hw",
+        "showMore":"1",
+        "type":"3",
+        "count":"10",
+        "extensionFields":[
+          {
+            "key":"subjectID",
+            "values":["H2005"]
+          }
+        ]
+      },
+      {
+        "title":"RECOMMENDED SERIES",
+        "apiType": "hw",
+        "showMore":"1",
+        "type":"3",
+        "count":"10",
+        "extensionFields":[
+          {
+            "key":"subjectID",
+            "values":["H2001"]
+          }
+        ]
+      },
+      {
+        "title":"KIDS",
+        "apiType": "hw",
+        "showMore":"1",
+        "type":"3",
+        "count":"10",
+        "extensionFields":[
+          {
+            "key":"subjectID",
+            "values":["H2003"]
+          }
+        ]
+      },
+      {
+        "title":"BBC FIRST HD",
+        "apiType": "hw",
+        "showMore":"1",
+        "type":"3",
+        "count":"10",
+        "extensionFields":[
+          {
+            "key":"subjectID",
+            "values":["H3002"]
+          }
+        ]
+      },
+      {
+        "title":"AL HIJRAH ON DEMAND",
+        "apiType": "hw",
+        "showMore":"1",
+        "type":"3",
+        "count":"10",
+        "extensionFields":[
+          {
+            "key":"subjectID",
+            "values":["H3003"]
+          }
+        ]
+      },
+      {
+        "title":"NOW BAOGU MOVIES",
+        "apiType": "hw",
+        "showMore":"1",
+        "type":"3",
+        "count":"10",
+        "extensionFields":[
+          {
+            "key":"subjectID",
+            "values":["H3005"]
+          }
+        ]
+      },
+      {
+        "title":"LIVE TV",
+        "apiType": "hw",
+        "showMore":"1",
+        "type":"9",
+        "count":"50"
+      }
+    ]
+  }
 }
