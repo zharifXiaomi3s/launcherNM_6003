@@ -209,9 +209,9 @@
       {
         "title":"CONTINUE WATCHING",
         "apiType": "hw",
-        "action": "1",
+        "action": "0",
         "colCell": "homevodcolcell",
-        "showMore": "0",
+        "showMore": "1",
         "type":"11",
         "count":"20"
       },
