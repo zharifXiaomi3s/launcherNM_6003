@@ -190,7 +190,7 @@
       },
       {
         "title":"TOKYO 2020 OLYMPIC GAMES",
-        "apiType": "nm",
+        "apiType": "nm1",
         "action": "1",
         "colCell": "homevodcolcell",
         "showMore":"0",
@@ -199,7 +199,7 @@
       },
       {
         "title":"LIGA MALAYSIA",
-        "apiType": "nm",
+        "apiType": "nm2",
         "action": "0",
         "colCell": "homevodcolcell",
         "showMore":"0",
